@@ -30,13 +30,10 @@ The list is sorted on the vendor ID and product ID.
 045e:0285  Microsoft X-Box pad (Japan)
 045e:0289  Microsoft X-Box pad v2 (US)
 045e:028e  Microsoft X-Box 360 pad
-045e:028e  Microsoft X-Box 360 pad
 045e:028e  Speedlink TORID Wireless Gamepad
 045e:028e  SpeedLink XEOX Pro Analog Gamepad pad
 045e:028e  X360 Controller
-045e:028e  X360 Controller
 045e:0291  X360 Wireless Controller
-045e:02a1  X360 Wireless Controller
 045e:02a1  X360 Wireless Controller
 045e:02a1  Xbox 360 Wireless Receiver (XBOX)
 045e:02d1  Microsoft X-Box One pad
@@ -51,7 +48,6 @@ The list is sorted on the vendor ID and product ID.
 046d:c211  Logitech WingMan Cordless RumblePad
 046d:c215  Logitech Logitech Extreme 3D
 046d:c216  Logitech Dual Action
-046d:c216  Logitech Dual Action
 046d:c218  Logitech RumblePad 2
 046d:c219  Logitech Cordless RumblePad 2
 046d:c219  Logitech F710 Gamepad (DInput)
@@ -62,34 +58,15 @@ The list is sorted on the vendor ID and product ID.
 04b4:010a  CYPRESS USB Gamepad
 050d:0803  Nostromo n45 Dual Analog Gamepad
 054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:0268  PS3 Controller
-054c:05c4  PS4 Controller
-054c:05c4  PS4 Controller
-054c:05c4  PS4 Controller
 054c:05c4  PS4 Controller
 054c:09cc  PS4 Controller
-054c:09cc  PS4 Controller
-054c:09cc  PS4 Controller
-054c:09cc  PS4 Controller
-054c:09cc  PS4 Controller
-054c:09cc  PS4 Controller
-054c:0ba0  PS4 Controller
 054c:0ba0  PS4 Controller
 056e:2003  JC-U3613M - DirectInput Mode
 057e:0330  Nintendo Wii Remote Pro Controller
 057e:2006  Joy-Con (L)
-057e:2006  Joy-Con (L)
-057e:2007  Joy-Con (R)
 057e:2007  Joy-Con (R)
 057e:2009  Nintendo Switch Pro Controller
 0583:2060  iBuffalo SNES Controller
-05a0:3232  8Bitdo Zero GamePad
 05a0:3232  8Bitdo Zero GamePad
 05ac:3232  VR-BOX
 05fd:3000  InterAct GoPad I-73000 (Fighting Game Layout)
@@ -121,8 +98,6 @@ The list is sorted on the vendor ID and product ID.
 0926:8888  Cyber Gadget GameCube Controller
 0955:7210  NVIDIA Controller
 0955:7214  NVIDIA Controller v01.04
-0955:7214  NVIDIA Controller v01.04
-0b05:4500  ASUS Gamepad
 0b05:4500  ASUS Gamepad
 0c12:0005  AxisPad
 0c12:0005  Manta Dualshock 2
@@ -174,7 +149,6 @@ The list is sorted on the vendor ID and product ID.
 1532:0401  Razer Panthera (PS4)
 1532:0402  Razer Panthera (PS3)
 1532:0900  Razer Serval
-1532:0900  Razer Serval
 1532:0a03  Razer Wildcat
 1532:1000  Razer RAIJU
 1689:fd00  Razer Onza Tournament Edition
@@ -208,14 +182,12 @@ The list is sorted on the vendor ID and product ID.
 24c6:543a  PowerA 1428124-01
 24c6:5b02  Thrustmaster GPX Gamepad
 24c6:5d04  Razer Sabertooth
-24c6:5d04  Razer Sabertooth
 2563:0523  ShanWan USB Gamepad
 2563:0575  SHANWAN PS3/PC Gamepad
 25f0:83c1  Goodbetterbest Ltd USB Controller
 25f0:c121  ShanWan Gioteck PS3 Wired Controller
 2717:3144  XiaoMi Game Controller
 2810:0009  8Bitdo SFC30 GamePad
-2836:0001  OUYA Game Controller
 2836:0001  OUYA Game Controller
 289b:0003  raphnet.net 4nes4snes v1.5
 28de:1102  Steam Controller
