@@ -1,4 +1,4 @@
-This is the full list of vendor- and product IDs from the `gamecontrollerdb.txt` file in the TheC64 firmware. It is unclear whether this is used for both (Mini and Maxi) variants of the emulator by Retro Games Ltd.
+This is the full list of vendor- and product IDs from the `gamecontrollerdb.txt` file in the TheC64 firmware version 1.3.2. It is unclear whether this is used for both (Mini and Maxi) variants of the emulator by Retro Games Ltd.
 
 The list is sorted on the vendor ID and product ID.
 
